@@ -7,7 +7,17 @@ Use el paquete manager [pip](https://pip.pypa.io/en/stable/) para instalar requi
 
 ```bash
 pip install -r requirements.txt
+
 ```
+## Activacion del entorno virtual
+
+**GNU/LINUX**
+
+```bash
+source env-python/bin/active
+```
+
+
 
 ## Documentacion
 

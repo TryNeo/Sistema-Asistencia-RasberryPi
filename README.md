@@ -1,6 +1,13 @@
-# Sistema de Asistencia con biometrico y rasberryPi
+## Sistema de Asistencia con biometrico y rasberryPi
 Projecto Reto - Biometrico  [2/C-3/A]  - [5/B]
 
+## Instalacion
+
+Use el paquete manager [pip](https://pip.pypa.io/en/stable/) para installar requirements.txt
+
+```bash
+pip install -r requirements.txt
+```
 
 # Autores
 

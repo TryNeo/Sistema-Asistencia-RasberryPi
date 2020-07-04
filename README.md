@@ -9,6 +9,11 @@ Use el paquete manager [pip](https://pip.pypa.io/en/stable/) para instalar requi
 pip install -r requirements.txt
 ```
 
+## Documentacion
+
+Lea la documenatacion [documenatacion](https://github.com/TryNeo/Sistema-Asistencia-RasberryPi/tree/master/documentacion)
+para mas informacion sobre el projecto 
+
 # Autores
 
 * **Josue Lopez** - *Python* - [TryNeo](https://github.com/TryNeo)

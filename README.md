@@ -1,11 +1,12 @@
-# python-biometrico
-Projecto Reto - Biometrico 
+# Sistema de Asistencia con biometrico y rasberryPi
+Projecto Reto - Biometrico  [2/C-3/A]  - [5/B]
 
 
 # Authors
 
 * **Josue Lopez** - *Python* - [TryNeo](https://github.com/TryNeo)
-* **Michael Silva** - *Odoo*
+* **Michael Silva** - *Odoo* - [xxMichaelSilvaxx](https://github.com/xxMichaelSilvaxx)
+* **Luis Enrique Perez** - *Project manager*
 
 # Secondary Authors
 * **Tito Peral** - *Models 3D*

@@ -2,13 +2,13 @@
 Projecto Reto - Biometrico  [2/C-3/A]  - [5/B]
 
 
-# Authors
+# Autores
 
 * **Josue Lopez** - *Python* - [TryNeo](https://github.com/TryNeo)
 * **Michael Silva** - *Odoo* - [xxMichaelSilvaxx](https://github.com/xxMichaelSilvaxx)
 * **Luis Enrique Perez** - *Project manager*
 
-# Secondary Authors
+# Autores Secundarios
 * **Tito Peral** - *Models 3D*
 * **Manuel Guevera**
 * **Manuel Moran**

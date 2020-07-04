@@ -6,11 +6,11 @@ import RPi.GPIO as GPIO
 import time
 import datetime
 
-
+#modulos externos
 from lib.lcddriver import *
 from conexiones.connect_mariadb import *
 from lib.pyfingerprint import PyFingerprint
-
+from rpi_conts import *
 
 #defiendo el curspr para el bd
 mysqlcursor = mydb.cursor()
@@ -20,19 +20,6 @@ mysqlcursor = mydb.cursor()
 lcd = lcd.lcd()
 lcdprint = lcd.lcd_display_string
 
-
-BUTTON_1 = 16 #Definiendo los pines para los botones
-BUTTON_2 = 12 #Definimos los pines para los botones
-
-LED_VERDE = 13  #Definiendo los pines para los leds
-LED_ROJO = 15 #Definiendo los pines para los leds
-
-GPIO.setwarnings(False) 
-GPIO.setmode(GPIO.BOARD)
-GPIO.setup(LED_VERDE,GPIO.OUT)
-GPIO.setup(LED_ROJO,GPIO.OUT)
-GPIO.setup(BUTTON_1, GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
-GPIO.setup(BUTTON_2, GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
 
 GPIO.output(LED_VERDE,GPIO.LOW)
 GPIO.output(LED_ROJO,GPIO.LOW)

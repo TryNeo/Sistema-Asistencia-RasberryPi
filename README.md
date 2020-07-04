@@ -6,7 +6,7 @@ Projecto Reto - Biometrico  [2/C-3/A]  - [5/B]
 Use el paquete manager [pip](https://pip.pypa.io/en/stable/) para instalar requirements.txt
 
 ```bash
-pip install -r requirements.txt
+>> pip install -r requirements.txt
 
 ```
 ## Activacion del entorno virtual
@@ -14,7 +14,7 @@ pip install -r requirements.txt
 **GNU/LINUX**
 
 ```bash
-source env-python/bin/active
+>> source env-python/bin/active
 ```
 
 

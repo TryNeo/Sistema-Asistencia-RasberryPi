@@ -19,208 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd9e6fb9-72a2-4cd5-abbc-4890f5a5d2cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/BdfFontFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/BlpImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/BmpImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/BufrStubImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/ContainerIO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/CurImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/DcxImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/DdsImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/EpsImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/ExifTags.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/FitsStubImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/FliImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/FontFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/FpxImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/FtexImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/GbrImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/GdImageFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/GifImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/GimpGradientFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/GimpPaletteFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/GribStubImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/Hdf5StubImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/IcnsImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/IcoImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/ImImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/Image.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/ImageChops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/ImageCms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/ImageColor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/ImageDraw.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/ImageDraw2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/ImageEnhance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/ImageFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/ImageFilter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/ImageFont.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/ImageGrab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/ImageMath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/ImageMode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/ImageMorph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/ImageOps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/ImagePalette.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/ImagePath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/ImageQt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/ImageSequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/ImageShow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/ImageStat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/ImageTk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/ImageTransform.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/ImageWin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/ImtImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/IptcImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/Jpeg2KImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/JpegImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/JpegPresets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/McIdasImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/MicImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/MpegImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/MpoImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/MspImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/PSDraw.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/PaletteFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/PalmImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/PcdImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/PcfFontFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/PcxImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/PdfImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/PdfParser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/PixarImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/PngImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/PpmImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/PsdImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/PyAccess.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/SgiImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/SpiderImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/SunImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/TarIO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/TgaImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/TiffImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/TiffTags.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/WalImageFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/WebPImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/WmfImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/XVThumbImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/XbmImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/XpmImagePlugin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/_binary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/_imaging.cpython-36m-x86_64-linux-gnu.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/_imagingcms.cpython-36m-x86_64-linux-gnu.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/_imagingft.cpython-36m-x86_64-linux-gnu.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/_imagingmath.cpython-36m-x86_64-linux-gnu.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/_imagingmorph.cpython-36m-x86_64-linux-gnu.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/_imagingtk.cpython-36m-x86_64-linux-gnu.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/_tkinter_finder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/_util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/_version.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/_webp.cpython-36m-x86_64-linux-gnu.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/PIL/features.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/Pillow-7.2.0.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/Pillow-7.2.0.dist-info/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/Pillow-7.2.0.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/Pillow-7.2.0.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/Pillow-7.2.0.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/Pillow-7.2.0.dist-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/Pillow-7.2.0.dist-info/zip-safe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/Pillow.libs/libXau-312dbc56.so.6.0.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/Pillow.libs/libXdmcp-e15573e7.so.6.0.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/Pillow.libs/libfreetype-b35627f5.so.6.17.2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/Pillow.libs/libjpeg-ba7bf5af.so.9.4.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/Pillow.libs/liblcms2-db671c5b.so.2.0.10" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/Pillow.libs/liblzma-99449165.so.5.2.5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/Pillow.libs/libopenjp2-b3d7668a.so.2.3.1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/Pillow.libs/libpng16-bedcb7ea.so.16.37.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/Pillow.libs/libtiff-41910f6d.so.5.5.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/Pillow.libs/libwebp-122bd20b.so.7.1.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/Pillow.libs/libwebpdemux-2db559e5.so.2.0.6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/Pillow.libs/libwebpmux-ec1d5c76.so.3.0.5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/Pillow.libs/libxcb-2dfad6c3.so.1.1.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/Pillow.libs/libz-a147dcb0.so.1.2.3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql/connector/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql/connector/abstracts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql/connector/authentication.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql/connector/catch23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql/connector/charsets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql/connector/connection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql/connector/connection_cext.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql/connector/constants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql/connector/conversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql/connector/cursor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql/connector/cursor_cext.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql/connector/custom_types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql/connector/dbapi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql/connector/django/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql/connector/django/base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql/connector/django/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql/connector/django/compiler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql/connector/django/creation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql/connector/django/features.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql/connector/django/introspection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql/connector/django/operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql/connector/django/schema.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql/connector/django/validation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql/connector/errorcode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql/connector/errors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql/connector/fabric/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql/connector/fabric/balancing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql/connector/fabric/caching.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql/connector/fabric/connection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql/connector/locales/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql/connector/locales/eng/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql/connector/locales/eng/client_error.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql/connector/network.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql/connector/optionfiles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql/connector/pooling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql/connector/protocol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql/connector/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql/connector/version.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql_connector-2.2.9.egg-info/PKG-INFO" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql_connector-2.2.9.egg-info/SOURCES.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql_connector-2.2.9.egg-info/dependency_links.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql_connector-2.2.9.egg-info/installed-files.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysql_connector-2.2.9.egg-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysqlx/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysqlx/authentication.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysqlx/charsets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysqlx/compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysqlx/connection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysqlx/constants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysqlx/crud.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysqlx/dbdoc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysqlx/errorcode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysqlx/errors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysqlx/expr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysqlx/expr_unparser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysqlx/locales/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysqlx/locales/eng/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysqlx/locales/eng/client_error.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysqlx/protobuf/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysqlx/protobuf/mysqlx_connection_pb2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysqlx/protobuf/mysqlx_crud_pb2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysqlx/protobuf/mysqlx_datatypes_pb2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysqlx/protobuf/mysqlx_expect_pb2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysqlx/protobuf/mysqlx_expr_pb2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysqlx/protobuf/mysqlx_notice_pb2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysqlx/protobuf/mysqlx_pb2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysqlx/protobuf/mysqlx_resultset_pb2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysqlx/protobuf/mysqlx_session_pb2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysqlx/protobuf/mysqlx_sql_pb2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysqlx/protobuf/t.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysqlx/protocol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysqlx/result.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-pythonPi/lib/python3.6/site-packages/mysqlx/statement.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/biometrico v-8.0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/biometrico v-8.0.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/attendance_bio.py" beforeDir="false" afterPath="$PROJECT_DIR$/attendance_bio.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/lcddriver.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/lcddriver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpi_conts.py" beforeDir="false" />
-    </list>
+    <list default="true" id="fd9e6fb9-72a2-4cd5-abbc-4890f5a5d2cb" name="Default Changelist" comment="update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -235,6 +34,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="WARN_ABOUT_CRLF" value="false" />
   </component>
   <component name="ProjectId" id="1Z2uFHOBNRYL5AhcbSCjAD44ZHn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -324,8 +124,16 @@
       <updated>1584049404047</updated>
       <workItem from="1584049405367" duration="7248000" />
       <workItem from="1593838190249" duration="109000" />
-      <workItem from="1593838401875" duration="613000" />
+      <workItem from="1593838401875" duration="966000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1593839204724</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593839204724</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -344,6 +152,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="416" y="148" width="524" height="497" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593838924372">
@@ -354,10 +164,14 @@
       <screen x="0" y="30" width="1366" height="738" />
     </state>
     <state x="455" y="153" width="424" height="480" key="FileChooserDialogImpl/0.30.1366.738@0.30.1366.738" timestamp="1593838253232" />
-    <state x="172" y="34" key="SettingsEditor" timestamp="1593839008164">
+    <state x="172" y="34" key="SettingsEditor" timestamp="1593839125344">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state x="172" y="34" key="SettingsEditor/0.30.1366.738@0.30.1366.738" timestamp="1593839008164" />
+    <state x="172" y="34" key="SettingsEditor/0.30.1366.738@0.30.1366.738" timestamp="1593839125344" />
+    <state x="278" y="131" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1593839227922">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="278" y="131" width="800" height="532" key="Vcs.Push.Dialog.v2/0.30.1366.738@0.30.1366.738" timestamp="1593839227922" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/biometrico_v_8_0$sync_db.coverage" NAME="sync_db Coverage Results" MODIFIED="1584056591578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

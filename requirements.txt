@@ -7,7 +7,7 @@ mysql-connector==2.2.9
 Pillow==10.0.1
 pkg-resources==0.0.0
 pyfiglet==0.8.post1
-PyMySQL==0.9.3
+PyMySQL==1.1.1
 pypi-xmlrpc==0.0.0
 python-dateutil==2.8.1
 pytz==2020.1
